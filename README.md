@@ -2,7 +2,7 @@
 <h4 align="center">VLSI Hardware Engineer · Verification & Emulation </h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anirban-dam//">
+  <a href="https://www.linkedin.com/in/anirban-dam/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location:-Bangalore%2C%20India-555555?style=flat-square" />
